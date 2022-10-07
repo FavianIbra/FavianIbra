@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GYvDn7ij0N7XUDnpxKrYv6CsdxaEicdYrw&usqp=CAU)]
+
 <h1 align="center">Hi 👋, I'm Favian Ibra Yanuarta</h1>
 <h3 align="center">Junior Programmer</h3>
 <img align="right alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen">
