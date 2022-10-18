@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Favian Ibra Yanuarta</h1>
 <h3 align="center">Junior Programmer</h3>
 <h3 align="left">Connect with me:</h3>
-
-
+<p align="left">
+<a href="https://instagram.com/fvnibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fvnibra" height="30" width="40" /></a>
+</p>
+<br>
 
 
 - 🔭 I’m currently studying on *SMK Telkom Malang*
@@ -19,7 +21,7 @@ FavianIbra/FavianIbra is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FavianIbra&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Favian Ibra&show_icons=true&theme=tokyonight)](https://github.com/FavianIbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FavianIbra&show_icons=true&theme=tokyonight)](https://github.com/FavianIbra/github-readme-stats)
 <!-- Stats too -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FavianIbra&theme=tokyonight_duo)](https://git.io/streak-stats)
 <!-- Also stats but in graph -->
