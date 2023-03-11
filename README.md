@@ -14,11 +14,9 @@
  <summary><strong>What i am learning on these days</strong></summary>
     - 🔭 I’m currently studying on SMK Telkom Malang </br>
     - 🌱 I’m currently learning HTML, CSS, PHP, Java, Javascript </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
+    - 💬 Not only that, I'm now studying and hopefully becoming proficient in Laravel, Vue.Js, React, Node.Js, Next.Js, and React Hooks..</br>
     - 📫 How to reach me: <a href="mailto:ibra.yanuarta@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: I'm a second child </br>
+    - ⚡ Fun fact: I'm not very good at backend :)</br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=FavianIbra&show_icons=true&theme=github_dark" />
