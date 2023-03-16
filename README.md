@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FavianIbra&show_icons=true&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FavianIbra&layout=compact&theme=tokyonight" height=120 />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FavianIbra&theme=tokyonight_duo" alt="mystreak"/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=FavianIbra&theme=react-dark" />
+    
 </p>
 
 ### Languages and Tools
