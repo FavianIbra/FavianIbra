@@ -15,7 +15,6 @@
     - 🔭 I’m currently studying on SMK Telkom Malang </br>
     - 🌱 I’m currently learning HTML, CSS, PHP, Java, Javascript </br>
     - 💬 Not only that, I'm now studying and hopefully becoming proficient in Laravel, Vue.Js, React, Node.Js, Next.Js, and React Hooks..</br>
-    - 📫 How to reach me: <a href="mailto:ibra.yanuarta@gmail.com">Email me!</a>  </br>
     - ⚡ Fun fact: I'm not very good at backend :)</br>
 </details>
 <p>
