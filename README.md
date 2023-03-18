@@ -14,7 +14,7 @@
  <summary><strong>What i am learning on these days</strong></summary>
     - 🔭 I’m currently studying on SMK Telkom Malang </br>
     - 🌱 I’m currently learning HTML, CSS, PHP, Java, Javascript </br>
-    - 💬 Not only that, I'm now studying and hopefully becoming proficient in Laravel, Vue.Js, React, Node.Js, Next.Js, and React Hooks..</br>
+    - 💬 Not only that, I'm now studying and hopefully becoming proficient in Laravel, Vue.Js, React, Node.Js, Next.Js, and React Hooks</br>
     - ⚡ Fun fact: I'm not very good at backend :)</br>
 </details>
 <p>
